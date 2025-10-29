@@ -1,0 +1,23 @@
+{
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "Exploring git hooks using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrividyaBV1996/git-hooks-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrividyaBV1996/git-hooks-nodejs/issues"
+  },
+  "homepage": "https://github.com/SrividyaBV1996/git-hooks-nodejs#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
