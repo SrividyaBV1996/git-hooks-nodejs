@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/SrividyaBV1996/git-hooks-nodejs#readme",
   "devDependencies": {
+    "husky": "^9.1.7",
     "jest": "^30.2.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
   }
 }
